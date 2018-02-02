@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -740,3 +741,6 @@
   </body>
 </html>
 
+=======
+# Lab2SOFE3950U
+>>>>>>> 2f31194390249a95e9f748959fd2330a9d2ce95f
